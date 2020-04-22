@@ -1,8 +1,8 @@
 <img alt="GoStack" src="https://i.imgur.com/2l1FtY3.png" />
 
-<h3 align="center">
+<h1 align="center">
   Desafio 01: Conceitos NodeJS
-</h3>
+</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wltjunior92/desafio-conceitos-nodejs?color=%2304D361">
